@@ -6,8 +6,8 @@
 <entry key="version">0.0.1-SNAPSHOT</entry>
 <entry key="dependencies" />
 <entry key="packageFormatVersion">2</entry>
-<entry key="description">raymourflanigan Content Package</entry>
-<entry key="group">raymourflanigan-content</entry>
-<entry key="name">raymourflanigan</entry>
-<entry key="path">/etc/packages/raymourflanigan-content/$artifactID-$version.zip</entry>
+<entry key="description">colgate UK Content Package</entry>
+<entry key="group">colgate-uk-content</entry>
+<entry key="name">colgate</entry>
+<entry key="path">/etc/packages/colgate-uk-content/$artifactID-$version.zip</entry>
 </properties>

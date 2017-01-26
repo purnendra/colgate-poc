@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <workspaceFilter version="1.0">
-    <filter root="/apps/raymourflanigan-retail">
-	   <exclude pattern="/apps/raymourflanigan-retail/i18n(/.*)?" />
+    <filter root="/apps/colgate-us">
+	   <exclude pattern="/apps/colgate-us/i18n(/.*)?" />
 	</filter>
-	<filter root="/apps/raymourflanigan-retail/i18n">
-	  <exclude pattern="/apps/raymourflanigan-retail/i18n(/.*)?"/>
-      <include pattern="/apps/raymourflanigan-retail/i18n/en(/.*)?"/>
+	<filter root="/apps/colgate-us/i18n">
+	  <exclude pattern="/apps/colgate-us/i18n(/.*)?"/>
+      <include pattern="/apps/colgate-us/i18n/en(/.*)?"/>
 	</filter>
-	<filter root="/etc/clientlibs/raymourflanigan-retail"/>
-	<filter root="/etc/designs/raymourflanigan-retail">
-	   <exclude pattern="/etc/designs/raymourflanigan-retail/jcr:content(/.*)?"/>
+	<filter root="/etc/clientlibs/colgate-us"/>
+	<filter root="/etc/designs/colgate-us">
+	   <exclude pattern="/etc/designs/colgate-us/jcr:content(/.*)?"/>
 	</filter>
 	<filter root="/apps/dam/gui"/>
 	<filter root="/apps/sling/servlet/errorhandler"/>
