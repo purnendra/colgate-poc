@@ -1,0 +1,13 @@
+<taglib xmlns="http://java.sun.com/xml/ns/javaee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://java.sun.com/xml/ns/javaee/web-jsptaglibrary_2_1.xsd"
+    version="2.1">
+    <!-- Attention! If you change anything in this tag library definition file,
+        please change the version of the java-taglib and the uri to the release
+        the change is going in to keep them in-sync. Please change
+        also the tag definition uri in the global.jsp. -->
+    <tlib-version>1.0</tlib-version>
+    <short-name>colgate-us-Taglib</short-name>
+    <uri>http://colgate.com/java-taglib/v1</uri>
+    
+     
+</taglib>

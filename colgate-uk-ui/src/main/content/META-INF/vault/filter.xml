@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/apps/raymourflanigan-retail">
+	   <exclude pattern="/apps/raymourflanigan-retail/i18n(/.*)?" />
+	</filter>
+	<filter root="/apps/raymourflanigan-retail/i18n">
+	  <exclude pattern="/apps/raymourflanigan-retail/i18n(/.*)?"/>
+      <include pattern="/apps/raymourflanigan-retail/i18n/en(/.*)?"/>
+	</filter>
+	<filter root="/etc/clientlibs/raymourflanigan-retail"/>
+	<filter root="/etc/designs/raymourflanigan-retail">
+	   <exclude pattern="/etc/designs/raymourflanigan-retail/jcr:content(/.*)?"/>
+	</filter>
+	<filter root="/apps/dam/gui"/>
+	<filter root="/apps/sling/servlet/errorhandler"/>
+	<filter root="/etc/languages"/>
+    <filter root="/etc/acs-commons/lists/article-type"/>
+	
+</workspaceFilter>
