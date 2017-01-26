@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/apps/raymourflanigan">
+	   <exclude pattern="/apps/raymourflanigan/i18n(/.*)?" />
+	</filter>
+	<filter root="/apps/raymourflanigan/i18n">
+	  <exclude pattern="/apps/raymourflanigan/i18n(/.*)?"/>
+      <include pattern="/apps/raymourflanigan/i18n/en(/.*)?"/>
+	</filter>
+	<filter root="/etc/clientlibs/raymourflanigan"/>
+	<filter root="/etc/designs/raymourflanigan">
+	   <exclude pattern="/etc/designs/raymourflanigan/jcr:content(/.*)?"/>
+	</filter>
+	<filter root="/apps/dam/gui"/>
+	<filter root="/apps/sling/servlet/errorhandler"/>
+	<filter root="/etc/languages"/>
+	
+</workspaceFilter>
