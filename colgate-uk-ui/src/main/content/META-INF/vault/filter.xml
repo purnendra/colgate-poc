@@ -7,7 +7,7 @@
 	  <exclude pattern="/apps/colgate-uk/i18n(/.*)?"/>
       <include pattern="/apps/colgate-uk/i18n/en(/.*)?"/>
 	</filter>
-	<filter root="/etc/clientlibs/colgate-uk"/>
+	<filter root="/etc/clientlibs/colgate"/>
 	<filter root="/etc/designs/colgate-uk">
 	   <exclude pattern="/etc/designs/colgate-uk/jcr:content(/.*)?"/>
 	</filter>

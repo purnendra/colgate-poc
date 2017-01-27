@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en" xml:lang="en" data-sly-use.dhlm="${'/apps/acs-commons/sightly/templates/dhlm.html'}">
+
+ <head>  
+<div data-sly-include="head.html"></div>
+<div data-sly-include="/libs/wcm/core/components/init/init.jsp"></div>
+<style data-sly-call="${dhlm.head @ mode='css'}" data-sly-unwrap></style>
+  </head>
+
+<body  id="MainCtr" data-sly-include="body.html" >
+
+<section data-sly-call="${dhlm.body}" data-sly-unwrap></section></body>
+
+</html>

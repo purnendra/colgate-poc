@@ -1,5 +1,4 @@
 #base=css
-header.css
-footer.css
-style.css
+colgateglobal.css
+
 
