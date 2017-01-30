@@ -1,0 +1,83 @@
+/*  ///////////------------     OHM STYLES    -----------////////////*/
+
+.ohm-overrides header .nav-bar .nav-bar-content {
+   
+    background-color: rgba(109, 107, 107, 0.2) !important;
+    
+}
+
+.ohm-overrides .btn-container {
+         padding-top: 26px;
+}
+
+.ohm-overrides ul li {
+    list-style: initial !important;
+    padding-top: 5px !important;
+}
+
+.ohm-overrides ul.slider1 li {
+    list-style: none !important;
+    padding-top: 5px !important;
+}
+
+.ohm-overrides ul.slider1 {
+    margin-top: 0 !important;
+    margin-bottom: 10px !important;
+}
+
+.ohm-overrides ul, ol {
+	padding-left: 30px !important;
+   
+}
+
+.ohm-overrides ol li {
+    
+    color: #2d2d2d !important;
+    padding-top: 10px !important;
+    font-weight: normal !important;
+}
+
+.ohm-overrides small, .small {
+    font-size: 70% !important;
+    line-height: 0.1 !important;
+}
+
+
+/* PRODUCTS FILTER */
+.products-filter.container .filterOpt .col-second .product-container .product-img .product-img-col .product-float .product-new {
+  background: url("../img/icons/new-corner-red.png") 0 0 no-repeat;
+}
+
+.products-filter.container .filterOpt .col-second .toothpaste-box .toothpaste-float .product-new {
+  background: url("../img/icons/new-corner-red.png") 0 0 no-repeat;
+ }
+
+ .offers .no-results {display:block;}
+
+#bsdModal .modal-body {margin:10px;border: 1px solid #ed1d24;}
+
+#bsdModal .modal-content {border-radius:0;}
+#bsdModal .bsd-modal-content img {margin:auto;}
+#bsdModal img.modal-logo {position: absolute;top: 10px;left: -11px;}
+#bsdModal .bsd-modal-content {margin-top: 60px; text-align:center;}
+#bsdModal .bsd-modal-content p {font-size:22px;font-family: "ColgateReady";color:#303030;padding:20px;margin-top: 20px;}
+#bsdModal p.bsd-modal-title {color:#ed1d24;font-size:26px;font-family: "ColgateReady";padding:0;}
+#bsdModal .input {text-align:center;}
+#bsdModal input {height:35px;}
+#bsdModal input#email {width:75%;padding-left: 10px;border-radius: 5px;border-style: solid;border-color: #dcdcdc;border-width: 1px;}
+#bsdModal input.btn.border-radius.square-link.signup-form-button {background-color: #fff;border-color: #333;margin-top:-5px;padding: 5px 10px;}
+@media screen and (max-width: 767px) {
+  #bsdModal .modal-dialog {width:auto;}
+  #bsdModal .modal-content {margin-left:15px; margin-right:15px;}
+}
+@media screen and (max-width: 405px) {
+  #bsdModal input.btn.border-radius.square-link.signup-form-button {margin-top:10px;}
+#bsdModal .bsd-modal-content p {font-size:14px;}
+#bsdModal p.bsd-modal-title {font-size:16px;}
+
+}
+
+
+.occ-unified-footer .iframe-container iframe, footer.us iframe {
+    height: 200px !important;
+}

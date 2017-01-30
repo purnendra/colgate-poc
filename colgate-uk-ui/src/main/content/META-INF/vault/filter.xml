@@ -1,16 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <workspaceFilter version="1.0">
-    <filter root="/apps/colgate-uk">
-	   <exclude pattern="/apps/colgate-uk/i18n(/.*)?" />
+    <filter root="/apps/colgate">
+	   <exclude pattern="/apps/colgate/i18n(/.*)?" />
 	</filter>
-	<filter root="/apps/colgate-uk/i18n">
-	  <exclude pattern="/apps/colgate-uk/i18n(/.*)?"/>
-      <include pattern="/apps/colgate-uk/i18n/en(/.*)?"/>
+	<filter root="/apps/colgate/i18n">
+	  <exclude pattern="/apps/colgate/i18n(/.*)?"/>
+      <include pattern="/apps/colgate/i18n/en(/.*)?"/>
 	</filter>
 	<filter root="/etc/clientlibs/colgate"/>
-	<filter root="/etc/designs/colgate-uk">
-	   <exclude pattern="/etc/designs/colgate-uk/jcr:content(/.*)?"/>
+	<filter root="/etc/designs/colgate">
+	   <exclude pattern="/etc/designs/colgate/jcr:content(/.*)?"/>
 	</filter>
+	<filter root="/etc/clientlibs/colgatespecific"/>
+	
 	<filter root="/apps/dam/gui"/>
 	<filter root="/apps/sling/servlet/errorhandler"/>
 	<filter root="/etc/languages"/>

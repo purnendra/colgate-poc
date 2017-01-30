@@ -1,0 +1,59 @@
+@font-face {
+    font-family: 'ColgateReady';
+    src: url('/Colgate/Common/Fonts1/ColgateReady/ColgateReadyWebLight/colgate_ready_web-light.eot'); /* IE9 */
+    src: url('/Colgate/Common/Fonts1/ColgateReady/ColgateReadyWebLight/colgate_ready_web-light.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('/Colgate/Common/Fonts1/ColgateReady/ColgateReadyWebLight/colgate_ready_web-light.woff') format('woff'), /* Modern Browsers */
+         url('/Colgate/Common/Fonts1/ColgateReady/ColgateReadyWebLight/colgate_ready_web-light.svg#Colgate-Ready') format('svg'); /* Legacy iOS */
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'ColgateReady';
+    src: url('/Colgate/Common/Fonts1/ColgateReady/ColgateReadyWebLightItalic/colgate_ready_web-light_italic.eot'); /* IE9 */
+    src: url('/Colgate/Common/Fonts1/ColgateReady/ColgateReadyWebLightItalic/colgate_ready_web-light_italic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('/Colgate/Common/Fonts1/ColgateReady/ColgateReadyWebLightItalic/colgate_ready_web-light_italic.woff') format('woff'), /* Modern Browsers */
+         url('/Colgate/Common/Fonts1/ColgateReady/ColgateReadyWebLightItalic/colgate_ready_web-light_italic.svg#Colgate-Ready') format('svg'); /* Legacy iOS */
+    font-weight: 300;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'ColgateReady';
+    src: url('/Colgate/Common/Fonts1/ColgateReady/ColgateReadyWebRegular/colgate_ready_web-regular.eot'); /* IE9 */
+    src: url('/Colgate/Common/Fonts1/ColgateReady/ColgateReadyWebRegular/colgate_ready_web-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('/Colgate/Common/Fonts1/ColgateReady/ColgateReadyWebRegular/colgate_ready_web-regular.woff') format('woff'), /* Modern Browsers */
+         url('/Colgate/Common/Fonts1/ColgateReady/ColgateReadyWebRegular/colgate_ready_web-regular.svg#Colgate-Ready') format('svg'); /* Legacy iOS */
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'ColgateReady';
+    src: url('/Colgate/Common/Fonts1/ColgateReady/ColgateReadyWebItalic/colgate_ready_web-italic.eot'); /* IE9 */
+    src: url('/Colgate/Common/Fonts1/ColgateReady/ColgateReadyWebItalic/colgate_ready_web-italic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('/Colgate/Common/Fonts1/ColgateReady/ColgateReadyWebItalic/colgate_ready_web-italic.woff') format('woff'), /* Modern Browsers */
+         url('/Colgate/Common/Fonts1/ColgateReady/ColgateReadyWebItalic/colgate_ready_web-italic.svg#Colgate-Ready') format('svg'); /* Legacy iOS */
+    font-weight: 500;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'ColgateReady';
+    src: url('/Colgate/Common/Fonts1/ColgateReady/ColgateReadyWebBold/colgate_ready_web-bold.eot'); /* IE9 */
+    src: url('/Colgate/Common/Fonts1/ColgateReady/ColgateReadyWebBold/colgate_ready_web-bold.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('/Colgate/Common/Fonts1/ColgateReady/ColgateReadyWebBold/colgate_ready_web-bold.woff') format('woff'), /* Modern Browsers */
+         url('/Colgate/Common/Fonts1/ColgateReady/ColgateReadyWebBold/colgate_ready_web-bold.svg#Colgate-Ready') format('svg'); /* Legacy iOS */
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'ColgateReady';
+    src: url('/Colgate/Common/Fonts1/ColgateReady/ColgateReadyWebBoldItalic/colgate_ready_web-bold_italic.eot'); /* IE9 */
+    src: url('/Colgate/Common/Fonts1/ColgateReady/ColgateReadyWebBoldItalic/colgate_ready_web-bold_italic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('/Colgate/Common/Fonts1/ColgateReady/ColgateReadyWebBoldItalic/colgate_ready_web-bold_italic.woff') format('woff'), /* Modern Browsers */
+         url('/Colgate/Common/Fonts1/ColgateReady/ColgateReadyWebBoldItalic/colgate_ready_web-bold_italic.svg#Colgate-Ready') format('svg'); /* Legacy iOS */
+    font-weight: 900;
+    font-style: italic;
+}
